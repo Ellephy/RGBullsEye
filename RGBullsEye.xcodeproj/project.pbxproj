@@ -25,6 +25,7 @@
 		F486ABF427EF1A5700AA2B2B /* RGB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RGB.swift; sourceTree = "<group>"; };
 		F486ABF627EF1A7800AA2B2B /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		F4D78C0627EFE03C00B519E9 /* ColorExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtensions.swift; sourceTree = "<group>"; };
+		F4D78C0827F0815800B519E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		F486ABE427EF129C00AA2B2B /* RGBullsEye */ = {
 			isa = PBXGroup;
 			children = (
+				F4D78C0827F0815800B519E9 /* Info.plist */,
 				F486ABF327EF1A0D00AA2B2B /* Model */,
 				F486ABE527EF129C00AA2B2B /* RGBullsEyeApp.swift */,
 				F486ABE727EF129C00AA2B2B /* ContentView.swift */,
@@ -290,6 +292,7 @@
 				DEVELOPMENT_TEAM = E2W4486RU6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = RGBullsEye/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -319,6 +322,7 @@
 				DEVELOPMENT_TEAM = E2W4486RU6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = RGBullsEye/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
